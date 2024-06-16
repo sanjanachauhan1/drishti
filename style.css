@@ -1526,6 +1526,8 @@ padding-right: 0%; padding-bottom:3%;}
 .mission-head { text-align:center;}
 .mission-section p{ text-align:center; padding-right:0px;}
 
+.highlights-item{ height:auto; margin-bottom:20px;}
+
 .footer-social{ margin-top:20px;}
 .hindi-translator{ background:#FFF; padding:2px 15px !important; display:inline-block; border-radius: 10px;}
 .hindi-translator a{ font-size:16px !important; padding:0px !important; background:none; height:100%;}
